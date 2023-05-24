@@ -19,5 +19,5 @@ def adivinhe(n):
         else:
             print("Parabéns! Bem na mosca! O número correto é {}".format(numero_gerado))     
 
-adivinhe(20)
+adivinhe(50)
     
