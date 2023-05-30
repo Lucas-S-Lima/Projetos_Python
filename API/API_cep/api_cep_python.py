@@ -33,8 +33,4 @@ print()
 
 print(f"Cep: {info['cep']}\nLogradouro: {info['logradouro']}\nBairro: {info['bairro']}\nCidade: {info['localidade']}\nUF: {info['uf']}")
 
-
-
-
-
-
+   
