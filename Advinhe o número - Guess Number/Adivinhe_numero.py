@@ -1,4 +1,4 @@
-import random #importando a biblioteca random
+import random  #importando a biblioteca random
 
 #criando a função que irá gerar e armazenar o valor a ser adivinhado
 
