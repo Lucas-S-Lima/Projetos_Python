@@ -1,4 +1,4 @@
-import requests 
+import requests  
 
 # Criando uma inicialização do programa
 
